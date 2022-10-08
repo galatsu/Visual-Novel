@@ -22,6 +22,7 @@ public class GameManager : MonoBehaviour
     //game object for all buttons
     public GameObject choiceOne;
     public GameObject choiceTwo;
+    public GameObject choiceThree;
     public GameObject nextButton;
 
     //text component that is showing the dialogue
@@ -44,6 +45,7 @@ public class GameManager : MonoBehaviour
         //turn off the choice buttons
         choiceOne.SetActive(false);
         choiceTwo.SetActive(false);
+        choiceThree.SetActive(true);
         //start the dialogue
         currentDialogue = phaseOneDialogue;
         dialogueBox.text = currentDialogue[dialogueIndex];
@@ -89,6 +91,7 @@ public class GameManager : MonoBehaviour
         nextButton.SetActive(false);
         choiceOne.SetActive(true);
         choiceTwo.SetActive(true);
+        choiceThree.SetActive(true);
     }
 
     public void FaceyChoice()
@@ -110,6 +113,7 @@ public class GameManager : MonoBehaviour
         nextButton.SetActive(true);
         choiceOne.SetActive(false);
         choiceTwo.SetActive(false);
+        choiceThree.SetActive(true);
         //reset the dialogue line counter
         dialogueIndex = 0;
         //depending on the phase
