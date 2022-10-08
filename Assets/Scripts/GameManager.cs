@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     public List<string> phaseTwoDialogue;
     public List<string> phaseThreeDialogue;
     public List<string> phaseFourDialogue;
+    public List<string> phaseFiveDialogue;
 
     //holds the phase we're currently going through
     List<string> currentDialogue;
@@ -22,22 +23,20 @@ public class GameManager : MonoBehaviour
     //game object for all buttons
     public GameObject choiceOne;
     public GameObject choiceTwo;
-    public GameObject choiceThree;
     public GameObject nextButton;
 
     //text component that is showing the dialogue
     public TMP_Text dialogueBox;
 
-    //"score" for how much of a clown u r
-    int clownyLove = 0;
+    //"score" for how much grunge girl likes you
+    int sheLikesYou = 0;
 
     //text for results of the quiz
-    public string clownMessage;
-    public string notAClownMessage;
+    public string aSecondDate;
+    public string seeYou;
 
     //animator components for each face
-    public Animator faceyAnim;
-    public Animator clownyAnim;
+    //public Animator grungeGirlAnim;
 
     // Start is called before the first frame update
     void Start()
@@ -45,17 +44,16 @@ public class GameManager : MonoBehaviour
         //turn off the choice buttons
         choiceOne.SetActive(false);
         choiceTwo.SetActive(false);
-        choiceThree.SetActive(true);
         //start the dialogue
         currentDialogue = phaseOneDialogue;
         dialogueBox.text = currentDialogue[dialogueIndex];
-        faceyAnim.SetTrigger("isTalking");
+        //faceyAnim.SetTrigger("isTalking");
     }
 
     void SetDialogueText()
     {
         //if we haven't gotten our results yet
-        if (phaseIndex < 4)
+        if (phaseIndex < 5)
         {
             //set the dialogue component to show the line we're on
             dialogueBox.text = currentDialogue[dialogueIndex];
@@ -65,7 +63,7 @@ public class GameManager : MonoBehaviour
     public void AdvanceDialog()
     {
         //if we haven't gotten our results yet
-        if (phaseIndex < 4)
+        if (phaseIndex < 5)
         {
             //go to the next line
             dialogueIndex++;
@@ -91,7 +89,6 @@ public class GameManager : MonoBehaviour
         nextButton.SetActive(false);
         choiceOne.SetActive(true);
         choiceTwo.SetActive(true);
-        choiceThree.SetActive(true);
     }
 
     public void FaceyChoice()
@@ -103,7 +100,7 @@ public class GameManager : MonoBehaviour
     public void ClownyChoice()
     {
         //if we press "yes", increase clowny's score and then go to the next phase
-        clownyLove++;
+        sheLikesYou++;
         GoToNextPhase();
     }
 
@@ -113,7 +110,6 @@ public class GameManager : MonoBehaviour
         nextButton.SetActive(true);
         choiceOne.SetActive(false);
         choiceTwo.SetActive(false);
-        choiceThree.SetActive(true);
         //reset the dialogue line counter
         dialogueIndex = 0;
         //depending on the phase
@@ -121,7 +117,7 @@ public class GameManager : MonoBehaviour
         switch (phaseIndex)
         {
             case 0:
-                faceyAnim.SetTrigger("isTalking");
+                //faceyAnim.SetTrigger("isTalking");
                 currentDialogue = phaseTwoDialogue;
                 phaseIndex = 1;
                 break;
@@ -130,12 +126,12 @@ public class GameManager : MonoBehaviour
                 phaseIndex = 2;
                 break;
             case 2:
-                clownyAnim.SetTrigger("isTalking");
+                //clownyAnim.SetTrigger("isTalking");
                 currentDialogue = phaseFourDialogue;
                 phaseIndex = 3;
                 break;
             case 3:
-                faceyAnim.SetTrigger("isTalking");
+                //faceyAnim.SetTrigger("isTalking");
                 phaseIndex = 4;
                 GiveResults();
                 break;
@@ -146,13 +142,13 @@ public class GameManager : MonoBehaviour
     void GiveResults()
     {
         //if the clown score is higher than 2, then u r a clown
-        if (clownyLove > 2)
+        if (sheLikesYou > 2)
         {
-            dialogueBox.text = clownMessage;
+            dialogueBox.text = aSecondDate;
         }
         else
         {
-            dialogueBox.text = notAClownMessage;
+            dialogueBox.text = seeYou;
         }
     }
 
