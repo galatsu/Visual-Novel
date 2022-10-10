@@ -23,6 +23,8 @@ public class GameManager : MonoBehaviour
     //game object for all buttons
     public GameObject choiceOne;
     public GameObject choiceTwo;
+    public GameObject choiceThree;
+    public GameObject choiceFour;
     public GameObject nextButton;
 
     //text component that is showing the dialogue
@@ -44,6 +46,9 @@ public class GameManager : MonoBehaviour
         //turn off the choice buttons
         choiceOne.SetActive(false);
         choiceTwo.SetActive(false);
+        choiceThree.SetActive(false);
+        choiceFour.SetActive(false);
+
         //start the dialogue
         currentDialogue = phaseOneDialogue;
         dialogueBox.text = currentDialogue[dialogueIndex];
@@ -71,8 +76,13 @@ public class GameManager : MonoBehaviour
             //if we're on the last line of dialogue
             if (dialogueIndex == currentDialogue.Count - 1)
             {
-                //show the choices
-                SetupChoices();
+                if (phaseIndex == 1)
+                {
+                    SecondChoiceSetup();
+                } else
+                {
+                    FirstChoiceSetup();
+                }
             }
         }
         //if we've seen our results
@@ -83,12 +93,24 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    void SetupChoices()
+    void FirstChoiceSetup()
+    {
+        //turn off the next button and turn on the choice buttons
+        nextButton.SetActive(false);
+        choiceOne.SetActive(false);
+        choiceTwo.SetActive(false);
+        choiceThree.SetActive(true);
+        choiceFour.SetActive(true);
+    }
+
+    void SecondChoiceSetup()
     {
         //turn off the next button and turn on the choice buttons
         nextButton.SetActive(false);
         choiceOne.SetActive(true);
         choiceTwo.SetActive(true);
+        choiceThree.SetActive(false);
+        choiceFour.SetActive(false);
     }
 
     public void FaceyChoice()
@@ -110,6 +132,9 @@ public class GameManager : MonoBehaviour
         nextButton.SetActive(true);
         choiceOne.SetActive(false);
         choiceTwo.SetActive(false);
+        choiceThree.SetActive(false);
+        choiceFour.SetActive(false);
+
         //reset the dialogue line counter
         dialogueIndex = 0;
         //depending on the phase
