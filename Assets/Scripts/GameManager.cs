@@ -76,7 +76,7 @@ public class GameManager : MonoBehaviour
     public void AdvanceDialog()
     {
         //if we haven't gotten our results yet
-        if (phaseIndex < 5)
+        if (phaseIndex < 4)
         {
             //go to the next line
             dialogueIndex++;
@@ -85,19 +85,23 @@ public class GameManager : MonoBehaviour
             //if we're on the last line of dialogue
             if (dialogueIndex == currentDialogue.Count - 1)
             {
-                if (phaseIndex == 1)
+                if (phaseIndex == 0)
+                {
+                    FirstChoiceSetup();
+                } else if (phaseIndex == 1)
                 {
                     SecondChoiceSetup();
                 } else if (phaseIndex == 2)
                 {
-                    FirstChoiceSetup();
-                } else if (phaseIndex == 3)
-                {
                     ThirdChoiceSetup();
-                } else if (phaseIndex == 4)
+                } else if (phaseIndex == 3)
                 {
                     FourthChoiceSetup();
                 }
+
+                //go to the next line
+                dialogueIndex++;
+                SetDialogueText();
             }
         }
         //if we've seen our results
@@ -110,20 +114,7 @@ public class GameManager : MonoBehaviour
 
     void FirstChoiceSetup()
     {
-        //turn off the next button and turn on the choice buttons
-        nextButton.SetActive(false);
-        choiceOne.SetActive(false);
-        choiceTwo.SetActive(false);
-        choiceThree.SetActive(true);
-        choiceFour.SetActive(true);
-        choiceFive.SetActive(false);
-        choiceSix.SetActive(false);
-        choiceSeven.SetActive(false);
-        choiceEight.SetActive(false);
-    }
-
-    void SecondChoiceSetup()
-    {
+        dialogueIndex = 0;
         //turn off the next button and turn on the choice buttons
         nextButton.SetActive(false);
         choiceOne.SetActive(true);
@@ -136,8 +127,24 @@ public class GameManager : MonoBehaviour
         choiceEight.SetActive(false);
     }
 
+    void SecondChoiceSetup()
+    {
+        dialogueIndex = 0;
+        //turn off the next button and turn on the choice buttons
+        nextButton.SetActive(false);
+        choiceOne.SetActive(false);
+        choiceTwo.SetActive(false);
+        choiceThree.SetActive(true);
+        choiceFour.SetActive(true);
+        choiceFive.SetActive(false);
+        choiceSix.SetActive(false);
+        choiceSeven.SetActive(false);
+        choiceEight.SetActive(false);
+    }
+
     void ThirdChoiceSetup()
     {
+        dialogueIndex = 0;
         //turn off the next button and turn on the choice buttons
         nextButton.SetActive(false);
         choiceOne.SetActive(false);
@@ -152,6 +159,7 @@ public class GameManager : MonoBehaviour
 
     void FourthChoiceSetup()
     {
+        dialogueIndex = 0;
         //turn off the next button and turn on the choice buttons
         nextButton.SetActive(false);
         choiceOne.SetActive(false);
@@ -243,7 +251,6 @@ public class GameManager : MonoBehaviour
                 phaseIndex = 4;
                 break;
             case 4:
-                phaseIndex = 5;
                 GiveResults();
                 break;
         }
