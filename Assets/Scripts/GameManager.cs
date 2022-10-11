@@ -6,6 +6,14 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    //sprite-related things
+    public SpriteRenderer spriteRenderer;
+    public Sprite talking;
+    public Sprite happy;
+    public Sprite embarrassed;
+    public Sprite idle;
+
+
     //these lists have all the dialogue for each phase of questions
     public List<string> phaseOneDialogue;
     public List<string> phaseTwoDialogue;
@@ -29,6 +37,7 @@ public class GameManager : MonoBehaviour
     public GameObject choiceSix;
     public GameObject choiceSeven;
     public GameObject choiceEight;
+    public GameObject goodbyeChoice;
     public GameObject nextButton;
 
     //text component that is showing the dialogue
@@ -56,6 +65,7 @@ public class GameManager : MonoBehaviour
         choiceSix.SetActive(false);
         choiceSeven.SetActive(false);
         choiceEight.SetActive(false);
+        goodbyeChoice.SetActive(false);
 
         //start the dialogue
         currentDialogue = phaseOneDialogue;
@@ -76,7 +86,7 @@ public class GameManager : MonoBehaviour
     public void AdvanceDialog()
     {
         //if we haven't gotten our results yet
-        if (phaseIndex < 4)
+        if (phaseIndex < 5)
         {
             //go to the next line
             dialogueIndex++;
@@ -87,9 +97,11 @@ public class GameManager : MonoBehaviour
             {
                 if (phaseIndex == 0)
                 {
+                    ChangeToTalking();
                     FirstChoiceSetup();
                 } else if (phaseIndex == 1)
                 {
+                    ChangeToTalking();
                     SecondChoiceSetup();
                 } else if (phaseIndex == 2)
                 {
@@ -97,24 +109,60 @@ public class GameManager : MonoBehaviour
                 } else if (phaseIndex == 3)
                 {
                     FourthChoiceSetup();
+                } else if (phaseIndex == 4)
+                {
+                    goodbyeChoiceSetup();
+                } else
+                {
+                    generalChoiceSetup();
                 }
 
-                //go to the next line
-                dialogueIndex++;
-                SetDialogueText();
             }
         }
         //if we've seen our results
         else
         {
             //go to the last scene
-            SceneManager.LoadScene("Main");
+            SceneManager.LoadScene("Intro");
         }
+    }
+
+    void ChangeToHappy()
+    {
+        spriteRenderer.sprite = happy;
+    }
+
+    void ChangeToIdle()
+    {
+        spriteRenderer.sprite = idle;
+    }
+
+    void ChangeToEmbarrassed()
+    {
+        spriteRenderer.sprite = embarrassed;
+    }
+
+    void ChangeToTalking()
+    {
+        spriteRenderer.sprite = talking;
+    }
+
+    void generalChoiceSetup()
+    {
+        choiceOne.SetActive(false);
+        choiceTwo.SetActive(false);
+        choiceThree.SetActive(false);
+        choiceFour.SetActive(false);
+        choiceFive.SetActive(false);
+        choiceSix.SetActive(false);
+        choiceSeven.SetActive(false);
+        choiceEight.SetActive(false);
+        goodbyeChoice.SetActive(false);
     }
 
     void FirstChoiceSetup()
     {
-        dialogueIndex = 0;
+        //dialogueIndex = 0;
         //turn off the next button and turn on the choice buttons
         nextButton.SetActive(false);
         choiceOne.SetActive(true);
@@ -125,11 +173,12 @@ public class GameManager : MonoBehaviour
         choiceSix.SetActive(false);
         choiceSeven.SetActive(false);
         choiceEight.SetActive(false);
+        goodbyeChoice.SetActive(false);
     }
 
     void SecondChoiceSetup()
     {
-        dialogueIndex = 0;
+        //dialogueIndex = 0;
         //turn off the next button and turn on the choice buttons
         nextButton.SetActive(false);
         choiceOne.SetActive(false);
@@ -140,11 +189,12 @@ public class GameManager : MonoBehaviour
         choiceSix.SetActive(false);
         choiceSeven.SetActive(false);
         choiceEight.SetActive(false);
+        goodbyeChoice.SetActive(false);
     }
 
     void ThirdChoiceSetup()
     {
-        dialogueIndex = 0;
+        //dialogueIndex = 0;
         //turn off the next button and turn on the choice buttons
         nextButton.SetActive(false);
         choiceOne.SetActive(false);
@@ -155,11 +205,12 @@ public class GameManager : MonoBehaviour
         choiceSix.SetActive(true);
         choiceSeven.SetActive(false);
         choiceEight.SetActive(false);
+        goodbyeChoice.SetActive(false);
     }
 
     void FourthChoiceSetup()
     {
-        dialogueIndex = 0;
+        //dialogueIndex = 0;
         //turn off the next button and turn on the choice buttons
         nextButton.SetActive(false);
         choiceOne.SetActive(false);
@@ -170,10 +221,28 @@ public class GameManager : MonoBehaviour
         choiceSix.SetActive(false);
         choiceSeven.SetActive(true);
         choiceEight.SetActive(true);
+        goodbyeChoice.SetActive(false);
+    }
+
+    void goodbyeChoiceSetup()
+    {
+        //dialogueIndex = 0;
+        //turn off the next button and turn on the choice buttons
+        nextButton.SetActive(false);
+        choiceOne.SetActive(false);
+        choiceTwo.SetActive(false);
+        choiceThree.SetActive(false);
+        choiceFour.SetActive(false);
+        choiceFive.SetActive(false);
+        choiceSix.SetActive(false);
+        choiceSeven.SetActive(false);
+        choiceEight.SetActive(false);
+        goodbyeChoice.SetActive(true);
     }
 
     public void ExpressiveChoice()
     {
+        ChangeToIdle();
         //only there for flavor; if we press either buttons, just go to
         //the next phase of questions
         GoToNextPhase();
@@ -181,6 +250,7 @@ public class GameManager : MonoBehaviour
 
     public void JoChoice()
     {
+        ChangeToHappy();
         //if we press "yes," increase Jo's score and go to the next phase
         sheLikesYou++;
         GoToNextPhase();
@@ -188,12 +258,14 @@ public class GameManager : MonoBehaviour
 
     public void NotAJoChoice()
     {
+        ChangeToEmbarrassed();
         //if we press "no," just go to the next phase
         GoToNextPhase();
     }
 
     public void WeakNarrativeChoice()
     {
+        ChangeToIdle();
         //a choice with no consequences to the date, but it makes you think there are going to be consequences
         //if either is pressed, go to next phase
         GoToNextPhase();
@@ -201,6 +273,7 @@ public class GameManager : MonoBehaviour
 
     public void RightUnfairChoice()
     {
+        ChangeToTalking();
         //if we press this choice, increase Jo's score and go to the next phase
         sheLikesYou++;
         GoToNextPhase();
@@ -208,7 +281,14 @@ public class GameManager : MonoBehaviour
 
     public void NotRightUnfairChoice()
     {
+        ChangeToTalking();
         //if we press this choice, does not harm score but go to the next phase
+        GoToNextPhase();
+    }
+
+    public void GoodbyeExpChoice()
+    {
+        //also an expressive choice, if we press it it sends us to results
         GoToNextPhase();
     }
 
@@ -251,6 +331,7 @@ public class GameManager : MonoBehaviour
                 phaseIndex = 4;
                 break;
             case 4:
+                phaseIndex = 5;
                 GiveResults();
                 break;
         }
@@ -262,10 +343,12 @@ public class GameManager : MonoBehaviour
         //if the clown score is higher than 2, then u r a clown
         if (sheLikesYou == 2)
         {
+            ChangeToHappy();
             dialogueBox.text = aSecondDate;
         }
         else
         {
+            ChangeToEmbarrassed();
             dialogueBox.text = seeYou;
         }
     }
