@@ -27,6 +27,8 @@ public class GameManager : MonoBehaviour
     public GameObject choiceFour;
     public GameObject choiceFive;
     public GameObject choiceSix;
+    public GameObject choiceSeven;
+    public GameObject choiceEight;
     public GameObject nextButton;
 
     //text component that is showing the dialogue
@@ -52,6 +54,8 @@ public class GameManager : MonoBehaviour
         choiceFour.SetActive(false);
         choiceFive.SetActive(false);
         choiceSix.SetActive(false);
+        choiceSeven.SetActive(false);
+        choiceEight.SetActive(false);
 
         //start the dialogue
         currentDialogue = phaseOneDialogue;
@@ -62,7 +66,7 @@ public class GameManager : MonoBehaviour
     void SetDialogueText()
     {
         //if we haven't gotten our results yet
-        if (phaseIndex < 5)
+        if (phaseIndex < 6)
         {
             //set the dialogue component to show the line we're on
             dialogueBox.text = currentDialogue[dialogueIndex];
@@ -72,7 +76,7 @@ public class GameManager : MonoBehaviour
     public void AdvanceDialog()
     {
         //if we haven't gotten our results yet
-        if (phaseIndex < 5)
+        if (phaseIndex < 6)
         {
             //go to the next line
             dialogueIndex++;
@@ -87,6 +91,12 @@ public class GameManager : MonoBehaviour
                 } else if (phaseIndex == 2)
                 {
                     FirstChoiceSetup();
+                } else if (phaseIndex == 3)
+                {
+                    ThirdChoiceSetup();
+                } else if (phaseIndex == 4)
+                {
+                    FourthChoiceSetup();
                 }
             }
         }
@@ -108,6 +118,8 @@ public class GameManager : MonoBehaviour
         choiceFour.SetActive(true);
         choiceFive.SetActive(false);
         choiceSix.SetActive(false);
+        choiceSeven.SetActive(false);
+        choiceEight.SetActive(false);
     }
 
     void SecondChoiceSetup()
@@ -120,6 +132,8 @@ public class GameManager : MonoBehaviour
         choiceFour.SetActive(false);
         choiceFive.SetActive(false);
         choiceSix.SetActive(false);
+        choiceSeven.SetActive(false);
+        choiceEight.SetActive(false);
     }
 
     void ThirdChoiceSetup()
@@ -132,6 +146,21 @@ public class GameManager : MonoBehaviour
         choiceFour.SetActive(false);
         choiceFive.SetActive(true);
         choiceSix.SetActive(true);
+        choiceSeven.SetActive(false);
+        choiceEight.SetActive(false);
+    }
+
+    void FourthChoiceSetup()
+    {
+        nextButton.SetActive(false);
+        choiceOne.SetActive(false);
+        choiceTwo.SetActive(false);
+        choiceThree.SetActive(false);
+        choiceFour.SetActive(false);
+        choiceFive.SetActive(false);
+        choiceSix.SetActive(false);
+        choiceSeven.SetActive(true);
+        choiceEight.SetActive(true);
     }
 
     public void ExpressiveChoice()
@@ -154,6 +183,26 @@ public class GameManager : MonoBehaviour
         GoToNextPhase();
     }
 
+    public void WeakNarrativeChoice()
+    {
+        //a choice with no consequences to the date, but it makes you think there are going to be consequences
+        //if either is pressed, go to next phase
+        GoToNextPhase();
+    }
+
+    public void RightUnfairChoice()
+    {
+        //if we press this choice, increase Jo's score and go to the next phase
+        sheLikesYou++;
+        GoToNextPhase();
+    }
+
+    public void NotRightUnfairChoice()
+    {
+        //if we press this choice, does not harm score but go to the next phase
+        GoToNextPhase();
+    }
+
     void GoToNextPhase()
     {
         //turn on the next button and turn off the choice buttons
@@ -164,6 +213,8 @@ public class GameManager : MonoBehaviour
         choiceFour.SetActive(false);
         choiceFive.SetActive(false);
         choiceSix.SetActive(false);
+        choiceSeven.SetActive(false);
+        choiceEight.SetActive(false);
 
         //reset the dialogue line counter
         dialogueIndex = 0;
@@ -187,7 +238,11 @@ public class GameManager : MonoBehaviour
                 break;
             case 3:
                 //faceyAnim.SetTrigger("isTalking");
+                currentDialogue = phaseFiveDialogue;
                 phaseIndex = 4;
+                break;
+            case 4:
+                phaseIndex = 5;
                 GiveResults();
                 break;
         }
@@ -197,7 +252,7 @@ public class GameManager : MonoBehaviour
     void GiveResults()
     {
         //if the clown score is higher than 2, then u r a clown
-        if (sheLikesYou > 2)
+        if (sheLikesYou == 2)
         {
             dialogueBox.text = aSecondDate;
         }
