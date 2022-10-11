@@ -66,7 +66,7 @@ public class GameManager : MonoBehaviour
     void SetDialogueText()
     {
         //if we haven't gotten our results yet
-        if (phaseIndex < 6)
+        if (phaseIndex < 5)
         {
             //set the dialogue component to show the line we're on
             dialogueBox.text = currentDialogue[dialogueIndex];
@@ -76,7 +76,7 @@ public class GameManager : MonoBehaviour
     public void AdvanceDialog()
     {
         //if we haven't gotten our results yet
-        if (phaseIndex < 6)
+        if (phaseIndex < 5)
         {
             //go to the next line
             dialogueIndex++;
@@ -152,6 +152,7 @@ public class GameManager : MonoBehaviour
 
     void FourthChoiceSetup()
     {
+        //turn off the next button and turn on the choice buttons
         nextButton.SetActive(false);
         choiceOne.SetActive(false);
         choiceTwo.SetActive(false);
@@ -238,7 +239,7 @@ public class GameManager : MonoBehaviour
                 break;
             case 3:
                 //faceyAnim.SetTrigger("isTalking");
-                currentDialogue = phaseFiveDialogue;
+                currentDialogue= phaseFiveDialogue;
                 phaseIndex = 4;
                 break;
             case 4:
