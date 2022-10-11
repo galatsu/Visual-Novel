@@ -25,6 +25,8 @@ public class GameManager : MonoBehaviour
     public GameObject choiceTwo;
     public GameObject choiceThree;
     public GameObject choiceFour;
+    public GameObject choiceFive;
+    public GameObject choiceSix;
     public GameObject nextButton;
 
     //text component that is showing the dialogue
@@ -48,6 +50,8 @@ public class GameManager : MonoBehaviour
         choiceTwo.SetActive(false);
         choiceThree.SetActive(false);
         choiceFour.SetActive(false);
+        choiceFive.SetActive(false);
+        choiceSix.SetActive(false);
 
         //start the dialogue
         currentDialogue = phaseOneDialogue;
@@ -73,13 +77,14 @@ public class GameManager : MonoBehaviour
             //go to the next line
             dialogueIndex++;
             SetDialogueText();
+
             //if we're on the last line of dialogue
             if (dialogueIndex == currentDialogue.Count - 1)
             {
                 if (phaseIndex == 1)
                 {
                     SecondChoiceSetup();
-                } else
+                } else if (phaseIndex == 2)
                 {
                     FirstChoiceSetup();
                 }
@@ -101,6 +106,8 @@ public class GameManager : MonoBehaviour
         choiceTwo.SetActive(false);
         choiceThree.SetActive(true);
         choiceFour.SetActive(true);
+        choiceFive.SetActive(false);
+        choiceSix.SetActive(false);
     }
 
     void SecondChoiceSetup()
@@ -111,18 +118,39 @@ public class GameManager : MonoBehaviour
         choiceTwo.SetActive(true);
         choiceThree.SetActive(false);
         choiceFour.SetActive(false);
+        choiceFive.SetActive(false);
+        choiceSix.SetActive(false);
     }
 
-    public void FaceyChoice()
+    void ThirdChoiceSetup()
     {
-        //if we press "no", just go to the next phase of questions
+        //turn off the next button and turn on the choice buttons
+        nextButton.SetActive(false);
+        choiceOne.SetActive(false);
+        choiceTwo.SetActive(false);
+        choiceThree.SetActive(false);
+        choiceFour.SetActive(false);
+        choiceFive.SetActive(true);
+        choiceSix.SetActive(true);
+    }
+
+    public void ExpressiveChoice()
+    {
+        //only there for flavor; if we press either buttons, just go to
+        //the next phase of questions
         GoToNextPhase();
     }
 
-    public void ClownyChoice()
+    public void JoChoice()
     {
-        //if we press "yes", increase clowny's score and then go to the next phase
+        //if we press "yes," increase Jo's score and go to the next phase
         sheLikesYou++;
+        GoToNextPhase();
+    }
+
+    public void NotAJoChoice()
+    {
+        //if we press "no," just go to the next phase
         GoToNextPhase();
     }
 
@@ -134,6 +162,8 @@ public class GameManager : MonoBehaviour
         choiceTwo.SetActive(false);
         choiceThree.SetActive(false);
         choiceFour.SetActive(false);
+        choiceFive.SetActive(false);
+        choiceSix.SetActive(false);
 
         //reset the dialogue line counter
         dialogueIndex = 0;
