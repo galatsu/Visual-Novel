@@ -1313,13 +1313,6 @@ GameObject:
   - component: {fileID: 1931418303}
   - component: {fileID: 1931418302}
   - component: {fileID: 1931418313}
-  - component: {fileID: 1931418320}
-  - component: {fileID: 1931418319}
-  - component: {fileID: 1931418318}
-  - component: {fileID: 1931418317}
-  - component: {fileID: 1931418316}
-  - component: {fileID: 1931418315}
-  - component: {fileID: 1931418314}
   - component: {fileID: 1931418334}
   - component: {fileID: 1931418333}
   - component: {fileID: 1931418332}
@@ -1350,13 +1343,6 @@ GameObject:
   - component: {fileID: 1931418337}
   - component: {fileID: 1931418336}
   - component: {fileID: 1931418371}
-  - component: {fileID: 1931418370}
-  - component: {fileID: 1931418369}
-  - component: {fileID: 1931418368}
-  - component: {fileID: 1931418367}
-  - component: {fileID: 1931418366}
-  - component: {fileID: 1931418365}
-  - component: {fileID: 1931418364}
   - component: {fileID: 1931418350}
   - component: {fileID: 1931418363}
   - component: {fileID: 1931418362}
@@ -1488,13 +1474,6 @@ GameObject:
   - component: {fileID: 1931418481}
   - component: {fileID: 1931418492}
   - component: {fileID: 1931418493}
-  - component: {fileID: 1931418500}
-  - component: {fileID: 1931418499}
-  - component: {fileID: 1931418498}
-  - component: {fileID: 1931418497}
-  - component: {fileID: 1931418496}
-  - component: {fileID: 1931418495}
-  - component: {fileID: 1931418494}
   - component: {fileID: 1931418523}
   - component: {fileID: 1931418522}
   - component: {fileID: 1931418521}
@@ -1518,13 +1497,6 @@ GameObject:
   - component: {fileID: 1931418502}
   - component: {fileID: 1931418524}
   - component: {fileID: 1931418540}
-  - component: {fileID: 1931418539}
-  - component: {fileID: 1931418538}
-  - component: {fileID: 1931418537}
-  - component: {fileID: 1931418536}
-  - component: {fileID: 1931418535}
-  - component: {fileID: 1931418534}
-  - component: {fileID: 1931418533}
   - component: {fileID: 1931418562}
   - component: {fileID: 1931418561}
   - component: {fileID: 1931418560}
@@ -1594,13 +1566,6 @@ GameObject:
   - component: {fileID: 1931418598}
   - component: {fileID: 1931418597}
   - component: {fileID: 1931418620}
-  - component: {fileID: 1931418627}
-  - component: {fileID: 1931418626}
-  - component: {fileID: 1931418625}
-  - component: {fileID: 1931418624}
-  - component: {fileID: 1931418623}
-  - component: {fileID: 1931418622}
-  - component: {fileID: 1931418621}
   - component: {fileID: 1931418649}
   - component: {fileID: 1931418648}
   - component: {fileID: 1931418647}
@@ -1638,13 +1603,6 @@ GameObject:
   - component: {fileID: 1931418652}
   - component: {fileID: 1931418651}
   - component: {fileID: 1931418664}
-  - component: {fileID: 1931418671}
-  - component: {fileID: 1931418670}
-  - component: {fileID: 1931418669}
-  - component: {fileID: 1931418668}
-  - component: {fileID: 1931418667}
-  - component: {fileID: 1931418666}
-  - component: {fileID: 1931418665}
   - component: {fileID: 1931418672}
   - component: {fileID: 1931418683}
   - component: {fileID: 1931418682}
@@ -1796,6 +1754,76 @@ GameObject:
   - component: {fileID: 1931418812}
   - component: {fileID: 1931418811}
   - component: {fileID: 1931418810}
+  - component: {fileID: 1931418848}
+  - component: {fileID: 1931418847}
+  - component: {fileID: 1931418846}
+  - component: {fileID: 1931418845}
+  - component: {fileID: 1931418844}
+  - component: {fileID: 1931418843}
+  - component: {fileID: 1931418842}
+  - component: {fileID: 1931418841}
+  - component: {fileID: 1931418840}
+  - component: {fileID: 1931418839}
+  - component: {fileID: 1931418838}
+  - component: {fileID: 1931418837}
+  - component: {fileID: 1931418836}
+  - component: {fileID: 1931418835}
+  - component: {fileID: 1931418834}
+  - component: {fileID: 1931418833}
+  - component: {fileID: 1931418832}
+  - component: {fileID: 1931418831}
+  - component: {fileID: 1931418830}
+  - component: {fileID: 1931418829}
+  - component: {fileID: 1931418828}
+  - component: {fileID: 1931418827}
+  - component: {fileID: 1931418826}
+  - component: {fileID: 1931418825}
+  - component: {fileID: 1931418824}
+  - component: {fileID: 1931418823}
+  - component: {fileID: 1931418892}
+  - component: {fileID: 1931418891}
+  - component: {fileID: 1931418890}
+  - component: {fileID: 1931418889}
+  - component: {fileID: 1931418888}
+  - component: {fileID: 1931418887}
+  - component: {fileID: 1931418886}
+  - component: {fileID: 1931418885}
+  - component: {fileID: 1931418884}
+  - component: {fileID: 1931418883}
+  - component: {fileID: 1931418882}
+  - component: {fileID: 1931418881}
+  - component: {fileID: 1931418880}
+  - component: {fileID: 1931418879}
+  - component: {fileID: 1931418878}
+  - component: {fileID: 1931418877}
+  - component: {fileID: 1931418876}
+  - component: {fileID: 1931418875}
+  - component: {fileID: 1931418874}
+  - component: {fileID: 1931418873}
+  - component: {fileID: 1931418872}
+  - component: {fileID: 1931418871}
+  - component: {fileID: 1931418870}
+  - component: {fileID: 1931418869}
+  - component: {fileID: 1931418868}
+  - component: {fileID: 1931418867}
+  - component: {fileID: 1931418866}
+  - component: {fileID: 1931418865}
+  - component: {fileID: 1931418864}
+  - component: {fileID: 1931418863}
+  - component: {fileID: 1931418862}
+  - component: {fileID: 1931418861}
+  - component: {fileID: 1931418860}
+  - component: {fileID: 1931418859}
+  - component: {fileID: 1931418858}
+  - component: {fileID: 1931418857}
+  - component: {fileID: 1931418856}
+  - component: {fileID: 1931418855}
+  - component: {fileID: 1931418854}
+  - component: {fileID: 1931418853}
+  - component: {fileID: 1931418852}
+  - component: {fileID: 1931418851}
+  - component: {fileID: 1931418850}
+  - component: {fileID: 1931418849}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1816,11 +1844,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 239.02946, y: 358.07965}
+  scrollPos: {x: 576.0665, y: -119.73275}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.57999986
+  zoom: 0.8799996
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1828,9 +1856,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1931418628}
+  - {fileID: 1931418620}
   selectedCommands:
-  - {fileID: 1931418630}
+  - {fileID: 1931418849}
   variables: []
   description: 
   stepPause: 0
@@ -1873,7 +1901,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 259.11942
     y: 64.33967
-    width: 74.82759
+    width: 74.54547
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2169,7 +2197,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 374.80576
     y: 145.46419
-    width: 81.724144
+    width: 80.9091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2211,7 +2239,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 382.13898
     y: -28.308218
-    width: 101.03449
+    width: 100.00003
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2547,7 +2575,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 838.1431
     y: 112.70166
-    width: 78.96552
+    width: 80.000015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2584,7 +2612,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -26.59885
     y: 106.72695
-    width: 66.55173
+    width: 66.36365
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2617,7 +2645,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1048.9855
     y: 112.066376
-    width: 69.31035
+    width: 70.00001
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2655,7 +2683,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 834.3496
     y: -13.254654
-    width: 83.103455
+    width: 83.63638
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3096,7 +3124,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -262.5199
     y: 151.15887
-    width: 87.24139
+    width: 87.27275
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3130,7 +3158,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -48.469254
     y: -32.31449
-    width: 101.03449
+    width: 100.90912
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3326,7 +3354,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1209.985
     y: 81.60074
-    width: 98.27587
+    width: 99.090935
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3413,7 +3441,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1019.4605
     y: 240.11002
-    width: 131.37933
+    width: 131.81822
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3609,7 +3637,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1185.3407
     y: 166.05608
-    width: 73.44828
+    width: 73.636375
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3655,8 +3683,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 1379.1205
-    y: 81.89586
-    width: 94.13794
+    y: 80.58007
+    width: 94.54548
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4180,7 +4208,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1291.9879
     y: 198.61911
-    width: 106.551735
+    width: 108.18185
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4226,7 +4254,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1462.6284
     y: 199.17943
-    width: 102.4138
+    width: 103.63639
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5057,7 +5085,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1025.5557
     y: 355.31497
-    width: 116.20691
+    width: 116.36367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5309,7 +5337,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1037.0532
     y: 474.04233
-    width: 91.37932
+    width: 90.90911
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5682,7 +5710,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1168.5492
     y: 355.11026
-    width: 112.06898
+    width: 111.818214
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5692,9 +5720,13 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1931418268}
+  - {fileID: 1931418848}
   - {fileID: 1931418267}
+  - {fileID: 1931418847}
   - {fileID: 1931418266}
+  - {fileID: 1931418846}
   - {fileID: 1931418265}
+  - {fileID: 1931418845}
   - {fileID: 1931418264}
   - {fileID: 1931418263}
   - {fileID: 1931418262}
@@ -5901,7 +5933,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1287.8285
     y: 286.20538
-    width: 120.34484
+    width: 120.90913
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6269,7 +6301,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1291.4275
     y: 404.1479
-    width: 124.48277
+    width: 125.45458
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6771,7 +6803,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 688.4185
     y: -92.52426
-    width: 146.55174
+    width: 146.36368
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7065,7 +7097,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 925.01666
     y: -92.47391
-    width: 117.58622
+    width: 117.27276
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7099,7 +7131,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 998.24036
     y: -169.16316
-    width: 113.44829
+    width: 112.72731
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7108,200 +7140,18 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1931418320}
-  - {fileID: 1931418319}
-  - {fileID: 1931418318}
-  - {fileID: 1931418317}
-  - {fileID: 1931418316}
-  - {fileID: 1931418315}
-  - {fileID: 1931418314}
+  - {fileID: 1931418844}
+  - {fileID: 1931418843}
+  - {fileID: 1931418842}
+  - {fileID: 1931418841}
+  - {fileID: 1931418840}
+  - {fileID: 1931418839}
+  - {fileID: 1931418838}
+  - {fileID: 1931418837}
+  - {fileID: 1931418836}
+  - {fileID: 1931418835}
+  - {fileID: 1931418834}
   suppressAllAutoSelections: 0
---- !u!114 &1931418314
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 225
-  indentLevel: 0
-  text: You stick out.
-  description: 
-  targetBlock: {fileID: 1931418385}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418315
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 224
-  indentLevel: 0
-  text: I like people who are "grunge."
-  description: 
-  targetBlock: {fileID: 1931418372}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418316
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 223
-  indentLevel: 0
-  storyText: Uh oh. How do you save yourself?
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418317
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 222
-  indentLevel: 0
-  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
-    or an insult.\r"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418318
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 221
-  indentLevel: 0
-  storyText: She looks very confused, staring at you with furrowed eyebrows.
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418319
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 220
-  indentLevel: 0
-  storyText: Uhhh.
-  description: 
-  character: {fileID: 317573389}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418320
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 219
-  indentLevel: 0
-  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
-  description: 
-  character: {fileID: 227636652}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1931418321
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7672,7 +7522,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 885.48035
     y: -167.66893
-    width: 92.75863
+    width: 91.81821
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7714,7 +7564,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 703.90173
     y: -162.40518
-    width: 117.58622
+    width: 117.27276
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8122,7 +7972,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 555.4798
     y: -159.774
-    width: 92.75863
+    width: 91.81821
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8499,192 +8349,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &1931418364
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 262
-  indentLevel: 0
-  text: You stick out.
-  description: 
-  targetBlock: {fileID: 1931418480}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418365
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 261
-  indentLevel: 0
-  text: I like people who are "grunge."
-  description: 
-  targetBlock: {fileID: 1931418409}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418366
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 260
-  indentLevel: 0
-  storyText: Uh oh. How do you save yourself?
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418367
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 259
-  indentLevel: 0
-  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
-    or an insult.\r"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418368
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 258
-  indentLevel: 0
-  storyText: She looks very confused, staring at you with furrowed eyebrows.
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418369
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 257
-  indentLevel: 0
-  storyText: Uhhh.
-  description: 
-  character: {fileID: 317573389}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418370
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 256
-  indentLevel: 0
-  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
-  description: 
-  character: {fileID: 227636652}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1931418371
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -8701,7 +8365,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 773.5033
     y: -231.00523
-    width: 113.44829
+    width: 112.72731
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8710,13 +8374,17 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1931418370}
-  - {fileID: 1931418369}
-  - {fileID: 1931418368}
-  - {fileID: 1931418367}
-  - {fileID: 1931418366}
-  - {fileID: 1931418365}
-  - {fileID: 1931418364}
+  - {fileID: 1931418833}
+  - {fileID: 1931418832}
+  - {fileID: 1931418831}
+  - {fileID: 1931418830}
+  - {fileID: 1931418829}
+  - {fileID: 1931418828}
+  - {fileID: 1931418827}
+  - {fileID: 1931418826}
+  - {fileID: 1931418825}
+  - {fileID: 1931418824}
+  - {fileID: 1931418823}
   suppressAllAutoSelections: 0
 --- !u!114 &1931418372
 MonoBehaviour:
@@ -8734,7 +8402,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1136.4014
     y: -229.76071
-    width: 121.72415
+    width: 121.81822
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9046,7 +8714,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 989.999
     y: -288.59616
-    width: 125.86208
+    width: 126.36368
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9685,7 +9353,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 835.3486
     y: -312.65576
-    width: 121.72415
+    width: 121.81822
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10176,7 +9844,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 50.209805
     y: -99.81018
-    width: 147.93106
+    width: 147.27278
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10339,7 +10007,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -177.37102
     y: -99.93659
-    width: 116.20691
+    width: 116.36367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10586,7 +10254,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 66.103455
     y: -166.35251
-    width: 116.20691
+    width: 116.36367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10862,7 +10530,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -301.09866
     y: -29.510986
-    width: 91.37932
+    width: 90.90911
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11258,7 +10926,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 20.217224
     y: -255.82684
-    width: 91.37932
+    width: 90.90911
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11596,7 +11264,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 616.5778
     y: -304.38565
-    width: 125.86208
+    width: 126.36368
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11963,7 +11631,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 202.92554
     y: -235.18813
-    width: 112.06898
+    width: 111.818214
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11972,200 +11640,18 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1931418500}
-  - {fileID: 1931418499}
-  - {fileID: 1931418498}
-  - {fileID: 1931418497}
-  - {fileID: 1931418496}
-  - {fileID: 1931418495}
-  - {fileID: 1931418494}
+  - {fileID: 1931418892}
+  - {fileID: 1931418891}
+  - {fileID: 1931418890}
+  - {fileID: 1931418889}
+  - {fileID: 1931418888}
+  - {fileID: 1931418887}
+  - {fileID: 1931418886}
+  - {fileID: 1931418885}
+  - {fileID: 1931418884}
+  - {fileID: 1931418883}
+  - {fileID: 1931418882}
   suppressAllAutoSelections: 0
---- !u!114 &1931418494
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 416
-  indentLevel: 0
-  text: You stick out.
-  description: 
-  targetBlock: {fileID: 1931418501}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418495
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 415
-  indentLevel: 0
-  text: I like people who are "grunge."
-  description: 
-  targetBlock: {fileID: 1931418523}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418496
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 414
-  indentLevel: 0
-  storyText: Uh oh. How do you save yourself?
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418497
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 413
-  indentLevel: 0
-  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
-    or an insult.\r"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418498
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 412
-  indentLevel: 0
-  storyText: She looks very confused, staring at you with furrowed eyebrows.
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418499
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 411
-  indentLevel: 0
-  storyText: Uhhh.
-  description: 
-  character: {fileID: 317573389}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418500
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 410
-  indentLevel: 0
-  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
-  description: 
-  character: {fileID: 227636652}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1931418501
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -12182,7 +11668,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 115.38593
     y: -329.3857
-    width: 124.48277
+    width: 125.45458
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12738,7 +12224,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 277.71674
     y: -328.44525
-    width: 120.34484
+    width: 120.90913
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12789,192 +12275,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &1931418533
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 448
-  indentLevel: 0
-  text: You stick out.
-  description: 
-  targetBlock: {fileID: 1931418541}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418534
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 447
-  indentLevel: 0
-  text: I like people who are "grunge."
-  description: 
-  targetBlock: {fileID: 1931418562}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418535
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 446
-  indentLevel: 0
-  storyText: Uh oh. How do you save yourself?
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418536
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 445
-  indentLevel: 0
-  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
-    or an insult.\r"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418537
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 444
-  indentLevel: 0
-  storyText: She looks very confused, staring at you with furrowed eyebrows.
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418538
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 443
-  indentLevel: 0
-  storyText: Uhhh.
-  description: 
-  character: {fileID: 317573389}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418539
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 442
-  indentLevel: 0
-  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
-  description: 
-  character: {fileID: 227636652}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1931418540
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -12991,7 +12291,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -319.17963
     y: -145.71442
-    width: 112.06898
+    width: 111.818214
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13000,13 +12300,17 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1931418539}
-  - {fileID: 1931418538}
-  - {fileID: 1931418537}
-  - {fileID: 1931418536}
-  - {fileID: 1931418535}
-  - {fileID: 1931418534}
-  - {fileID: 1931418533}
+  - {fileID: 1931418881}
+  - {fileID: 1931418880}
+  - {fileID: 1931418879}
+  - {fileID: 1931418878}
+  - {fileID: 1931418877}
+  - {fileID: 1931418876}
+  - {fileID: 1931418875}
+  - {fileID: 1931418874}
+  - {fileID: 1931418873}
+  - {fileID: 1931418872}
+  - {fileID: 1931418871}
   suppressAllAutoSelections: 0
 --- !u!114 &1931418541
 MonoBehaviour:
@@ -13024,7 +12328,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -515.79047
     y: -101.75418
-    width: 124.48277
+    width: 125.45458
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13610,7 +12914,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -510.17798
     y: -207.39246
-    width: 120.34484
+    width: 120.90913
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13731,7 +13035,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -424.44418
     y: 240.30731
-    width: 116.20691
+    width: 116.36367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14140,7 +13444,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -155.39998
     y: 244.51035
-    width: 147.93106
+    width: 147.27278
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14303,7 +13607,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -140.65038
     y: 328.65598
-    width: 116.20691
+    width: 116.36367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14878,7 +14182,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -201.2114
     y: 415.60144
-    width: 91.37932
+    width: 90.90911
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14918,7 +14222,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -62.78863
     y: 417.6684
-    width: 112.06898
+    width: 111.818214
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14927,200 +14231,18 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1931418627}
-  - {fileID: 1931418626}
-  - {fileID: 1931418625}
-  - {fileID: 1931418624}
-  - {fileID: 1931418623}
-  - {fileID: 1931418622}
-  - {fileID: 1931418621}
+  - {fileID: 1931418859}
+  - {fileID: 1931418858}
+  - {fileID: 1931418857}
+  - {fileID: 1931418856}
+  - {fileID: 1931418855}
+  - {fileID: 1931418854}
+  - {fileID: 1931418853}
+  - {fileID: 1931418852}
+  - {fileID: 1931418851}
+  - {fileID: 1931418850}
+  - {fileID: 1931418849}
   suppressAllAutoSelections: 0
---- !u!114 &1931418621
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 535
-  indentLevel: 0
-  text: You stick out.
-  description: 
-  targetBlock: {fileID: 1931418649}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418622
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 534
-  indentLevel: 0
-  text: I like people who are "grunge."
-  description: 
-  targetBlock: {fileID: 1931418628}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418623
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 533
-  indentLevel: 0
-  storyText: Uh oh. How do you save yourself?
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418624
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 532
-  indentLevel: 0
-  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
-    or an insult.\r"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418625
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 531
-  indentLevel: 0
-  storyText: She looks very confused, staring at you with furrowed eyebrows.
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418626
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 530
-  indentLevel: 0
-  storyText: Uhhh.
-  description: 
-  character: {fileID: 317573389}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418627
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 529
-  indentLevel: 0
-  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
-  description: 
-  character: {fileID: 227636652}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1931418628
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -15137,7 +14259,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 96.28831
     y: 464.7036
-    width: 120.34484
+    width: 120.90913
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15720,7 +14842,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 95.38591
     y: 373.47113
-    width: 124.48277
+    width: 125.45458
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15759,7 +14881,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -335.385
     y: 333.34586
-    width: 91.37932
+    width: 90.90911
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16154,7 +15276,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -496.5929
     y: 333.32388
-    width: 112.06898
+    width: 111.818214
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16163,200 +15285,18 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1931418671}
-  - {fileID: 1931418670}
-  - {fileID: 1931418669}
-  - {fileID: 1931418668}
-  - {fileID: 1931418667}
-  - {fileID: 1931418666}
-  - {fileID: 1931418665}
+  - {fileID: 1931418870}
+  - {fileID: 1931418869}
+  - {fileID: 1931418868}
+  - {fileID: 1931418867}
+  - {fileID: 1931418866}
+  - {fileID: 1931418865}
+  - {fileID: 1931418864}
+  - {fileID: 1931418863}
+  - {fileID: 1931418862}
+  - {fileID: 1931418861}
+  - {fileID: 1931418860}
   suppressAllAutoSelections: 0
---- !u!114 &1931418665
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 599
-  indentLevel: 0
-  text: You stick out.
-  description: 
-  targetBlock: {fileID: 1931418694}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418666
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 598
-  indentLevel: 0
-  text: I like people who are "grunge."
-  description: 
-  targetBlock: {fileID: 1931418672}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &1931418667
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 597
-  indentLevel: 0
-  storyText: Uh oh. How do you save yourself?
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418668
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 596
-  indentLevel: 0
-  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
-    or an insult.\r"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418669
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 595
-  indentLevel: 0
-  storyText: She looks very confused, staring at you with furrowed eyebrows.
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418670
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 594
-  indentLevel: 0
-  storyText: Uhhh.
-  description: 
-  character: {fileID: 317573389}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1931418671
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1931418102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 593
-  indentLevel: 0
-  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
-  description: 
-  character: {fileID: 227636652}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1931418672
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -16373,7 +15313,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -673.0348
     y: 276.89316
-    width: 120.34484
+    width: 120.90913
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16986,7 +15926,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -675.7906
     y: 388.24612
-    width: 124.48277
+    width: 125.45458
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20848,6 +19788,1962 @@ MonoBehaviour:
   move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
+--- !u!114 &1931418823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 781
+  indentLevel: 0
+  text: You stick out.
+  description: 
+  targetBlock: {fileID: 1931418480}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 780
+  indentLevel: 0
+  text: I like people who are "grunge."
+  description: 
+  targetBlock: {fileID: 1931418409}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 779
+  indentLevel: 0
+  storyText: Uh oh. How do you save yourself?
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 778
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 777
+  indentLevel: 0
+  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
+    or an insult.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 776
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1601591846, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 775
+  indentLevel: 0
+  storyText: She looks very confused, staring at you with furrowed eyebrows.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 774
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 773
+  indentLevel: 0
+  storyText: Uhhh.
+  description: 
+  character: {fileID: 317573389}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 772
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1578506327, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 771
+  indentLevel: 0
+  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
+  description: 
+  character: {fileID: 227636652}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 770
+  indentLevel: 0
+  text: You stick out.
+  description: 
+  targetBlock: {fileID: 1931418385}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 769
+  indentLevel: 0
+  text: I like people who are "grunge."
+  description: 
+  targetBlock: {fileID: 1931418372}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 768
+  indentLevel: 0
+  storyText: Uh oh. How do you save yourself?
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 767
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 766
+  indentLevel: 0
+  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
+    or an insult.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 765
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1601591846, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 764
+  indentLevel: 0
+  storyText: She looks very confused, staring at you with furrowed eyebrows.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 763
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 762
+  indentLevel: 0
+  storyText: Uhhh.
+  description: 
+  character: {fileID: 317573389}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 761
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1578506327, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 760
+  indentLevel: 0
+  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
+  description: 
+  character: {fileID: 227636652}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 759
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 758
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1601591846, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 757
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 756
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1578506327, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 825
+  indentLevel: 0
+  text: You stick out.
+  description: 
+  targetBlock: {fileID: 1931418649}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 824
+  indentLevel: 0
+  text: I like people who are "grunge."
+  description: 
+  targetBlock: {fileID: 1931418628}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 823
+  indentLevel: 0
+  storyText: Uh oh. How do you save yourself?
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 822
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 821
+  indentLevel: 0
+  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
+    or an insult.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 820
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1601591846, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 819
+  indentLevel: 0
+  storyText: She looks very confused, staring at you with furrowed eyebrows.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 818
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 817
+  indentLevel: 0
+  storyText: Uhhh.
+  description: 
+  character: {fileID: 317573389}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 816
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1578506327, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 815
+  indentLevel: 0
+  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
+  description: 
+  character: {fileID: 227636652}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 814
+  indentLevel: 0
+  text: You stick out.
+  description: 
+  targetBlock: {fileID: 1931418694}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 813
+  indentLevel: 0
+  text: I like people who are "grunge."
+  description: 
+  targetBlock: {fileID: 1931418672}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 812
+  indentLevel: 0
+  storyText: Uh oh. How do you save yourself?
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 811
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 810
+  indentLevel: 0
+  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
+    or an insult.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 809
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1601591846, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 808
+  indentLevel: 0
+  storyText: She looks very confused, staring at you with furrowed eyebrows.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 807
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 806
+  indentLevel: 0
+  storyText: Uhhh.
+  description: 
+  character: {fileID: 317573389}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 805
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1578506327, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 804
+  indentLevel: 0
+  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
+  description: 
+  character: {fileID: 227636652}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 803
+  indentLevel: 0
+  text: You stick out.
+  description: 
+  targetBlock: {fileID: 1931418541}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 802
+  indentLevel: 0
+  text: I like people who are "grunge."
+  description: 
+  targetBlock: {fileID: 1931418562}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 801
+  indentLevel: 0
+  storyText: Uh oh. How do you save yourself?
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 800
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 799
+  indentLevel: 0
+  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
+    or an insult.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 798
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1601591846, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 797
+  indentLevel: 0
+  storyText: She looks very confused, staring at you with furrowed eyebrows.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 796
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 795
+  indentLevel: 0
+  storyText: Uhhh.
+  description: 
+  character: {fileID: 317573389}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 794
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1578506327, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 793
+  indentLevel: 0
+  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
+  description: 
+  character: {fileID: 227636652}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 792
+  indentLevel: 0
+  text: You stick out.
+  description: 
+  targetBlock: {fileID: 1931418501}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 791
+  indentLevel: 0
+  text: I like people who are "grunge."
+  description: 
+  targetBlock: {fileID: 1931418523}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &1931418884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 790
+  indentLevel: 0
+  storyText: Uh oh. How do you save yourself?
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 789
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 788
+  indentLevel: 0
+  storyText: "What does that mean? I don\u2019t know if that\u2019s a compliment
+    or an insult.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 787
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1601591846, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 786
+  indentLevel: 0
+  storyText: She looks very confused, staring at you with furrowed eyebrows.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 785
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -547771415, guid: 1cc18ef3402c3a445a5ca8c7fa641b48, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 784
+  indentLevel: 0
+  storyText: Uhhh.
+  description: 
+  character: {fileID: 317573389}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1931418891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 783
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 317573389}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: -1578506327, guid: 2fe8774a72d228641bef24b6ede32ca2, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1931418892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931418102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 782
+  indentLevel: 0
+  storyText: "Y\u2019know, you do seem like someone who listens to Nirvana."
+  description: 
+  character: {fileID: 227636652}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &2012118522
 GameObject:
   m_ObjectHideFlags: 0
