@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cae08e2ea091cc94f9f23d9a42e20e83
+guid: 2fe8774a72d228641bef24b6ede32ca2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: grungegirl_idle
+      name: talking(normal)
       rect:
         serializedVersion: 2
-        x: 85
-        y: 1549
-        width: 928
-        height: 1441
+        x: 23
+        y: 1544
+        width: 977
+        height: 1412
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0385457220940440baf0da77a8ae163
-      internalID: -1417623623
+      spriteID: 6ce0f65bf868fb04eb739567867d5427
+      internalID: 416847615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: grungegirl_talk
+      name: talking(annoyed)
       rect:
         serializedVersion: 2
-        x: 1022
-        y: 1552
-        width: 930
-        height: 1442
+        x: 1018
+        y: 1567
+        width: 958
+        height: 1381
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f593b5741e04374197b252ed51fb832
-      internalID: -1067794506
+      spriteID: 40f83c0ba116add4f82c0a36f5cde3e4
+      internalID: -1601591846
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: grungegirl_happy
+      name: talking(happy)
       rect:
         serializedVersion: 2
-        x: 124
-        y: 81
-        width: 927
-        height: 1442
+        x: 17
+        y: 97
+        width: 999
+        height: 1443
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfd9612270cee6d4880e0e94bcd9e81e
-      internalID: 963510747
+      spriteID: 14929579c5278a24eb088398d3e3302d
+      internalID: 1298924218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: grungegirl_uhh
+      name: talking(uhhh)
       rect:
         serializedVersion: 2
-        x: 1067
-        y: 86
-        width: 929
-        height: 1442
+        x: 1032
+        y: 118
+        width: 968
+        height: 1399
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c9f0dfeb424fa44081017c93691db72
-      internalID: 1923752377
+      spriteID: deeb72bd4c3f9f043ad390b0be695e04
+      internalID: -1578506327
       vertices: []
       indices: 
       edges: []
@@ -211,10 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      grungegirl_idle: -1417623623
-      grungegirl_uhh: 1923752377
-      grungegirl_happy: 963510747
-      grungegirl_talk: -1067794506
+      talking(annoyed): -1601591846
+      talking(uhhh): -1578506327
+      talking(happy): 1298924218
+      talking(normal): 416847615
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
